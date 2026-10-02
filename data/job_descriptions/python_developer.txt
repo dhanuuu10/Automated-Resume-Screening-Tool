@@ -1,0 +1,24 @@
+Job Title: Python Developer
+
+Required Skills:
+- Python
+- SQL
+- Django
+- Flask
+- HTML
+- CSS
+- Machine Learning
+- Problem Solving
+
+Educational Qualification:
+Bachelor's degree in Computer Science, Information Technology, or a related field.
+
+Experience:
+0–2 years (Freshers can apply).
+
+Job Responsibilities:
+1. Develop and maintain Python applications.
+2. Work with databases using SQL.
+3. Understand and implement APIs.
+4. Write clean and reusable Python code.
+5. Debug and test applications.

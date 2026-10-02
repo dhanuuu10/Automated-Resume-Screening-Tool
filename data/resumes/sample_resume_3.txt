@@ -1,0 +1,19 @@
+Name: Amit Sharma
+
+Email: amit.sharma@gmail.com
+
+Phone: 9876543212
+
+Technical Skills:
+Java, C++, HTML, CSS, Excel, Communication
+
+Education:
+B.Tech in Computer Engineering
+ABC College
+
+Experience:
+Fresher
+
+Projects:
+1. Student Management System
+2. Basic Web Development Project

@@ -1,0 +1,24 @@
+
+Name: Rahul Sharma
+
+Email: rahul.sharma@gmail.com
+
+Phone: 9876543210
+
+Career Objective:
+To work as a Python Developer and improve my programming skills.
+
+Technical Skills:
+Python, SQL, Django, Flask, HTML, CSS, Machine Learning
+
+Education:
+B.Tech in Computer Engineering
+ABC College of Engineering
+2025
+
+Experience:
+Fresher
+
+Projects:
+1. Student Management System using Python.
+2. Resume Screening System using Python.

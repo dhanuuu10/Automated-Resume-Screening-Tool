@@ -1,0 +1,19 @@
+Name: Priya Patil
+
+Email: priya.patil@gmail.com
+
+Phone: 9876543211
+
+Technical Skills:
+Python, SQL, HTML, CSS, JavaScript, Django, Git
+
+Education:
+B.Tech in Information Technology
+XYZ College
+
+Experience:
+Fresher
+
+Projects:
+1. Python Web Application
+2. Student Database Management System
